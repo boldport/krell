@@ -1,0 +1,1246 @@
+{
+  "components": {
+    "B1": {
+      "footprint": "AAA_Battery_Holder",
+      "layer": "bottom",
+      "location": [
+        -11.296967,
+        -0.537224
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "C1": {
+      "footprint": "cap_elec_6mm3_th",
+      "layer": "top",
+      "location": [
+        -7.170397,
+        -19.672827
+      ],
+      "rotate": 90,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "gerber-lp": "cc",
+          "location": [
+            0,
+            1.9
+          ],
+          "rotate": 180,
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "C2": {
+      "footprint": "suntan_ceramic",
+      "layer": "top",
+      "location": [
+        -6.507522,
+        15.076518
+      ],
+      "rotate": 270,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "gerber-lp": "cc",
+          "location": [
+            0,
+            0
+          ],
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "C3": {
+      "footprint": "cap_elec_4mm_th_v2",
+      "layer": "top",
+      "location": [
+        -27.981507,
+        25.487405
+      ],
+      "rotate": 30,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -1.5,
+            2.8
+          ],
+          "rotate": -30,
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "C4": {
+      "footprint": "cap_elec_4mm_th",
+      "layer": "top",
+      "location": [
+        -15.663037,
+        26.936871
+      ],
+      "rotate": 90,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            3.25,
+            0
+          ],
+          "rotate": -90,
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "C5": {
+      "footprint": "suntan_ceramic",
+      "layer": "top",
+      "location": [
+        -13.923299,
+        -17.957188
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "gerber-lp": "cc",
+          "location": [
+            0,
+            0
+          ],
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "C6": {
+      "footprint": "2mm5tantalum",
+      "layer": "top",
+      "location": [
+        -6.496161,
+        -4.242783
+      ],
+      "rotate": 90,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -3.5,
+            0
+          ],
+          "rotate": 180,
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "C7": {
+      "footprint": "suntan_ceramic",
+      "layer": "top",
+      "location": [
+        -6.439912,
+        -12.964272
+      ],
+      "rotate": 270,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "gerber-lp": "cc",
+          "location": [
+            0,
+            0
+          ],
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "D1": {
+      "footprint": "Cree_C4SMA",
+      "layer": "top",
+      "location": [
+        -24.270482,
+        13.259909
+      ],
+      "rotate": 330,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -3.4,
+            0
+          ],
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "D2": {
+      "footprint": "Cree_C4SMA",
+      "layer": "top",
+      "location": [
+        -24.270482,
+        4.971992
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -3.4,
+            0
+          ],
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "D3": {
+      "footprint": "Cree_C4SMA",
+      "layer": "top",
+      "location": [
+        -24.270482,
+        -3.470326
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -3.4,
+            0
+          ],
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "D4": {
+      "footprint": "Cree_C4SMA",
+      "layer": "top",
+      "location": [
+        -24.270482,
+        -11.707184
+      ],
+      "rotate": 30,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -3.4,
+            0
+          ],
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "IC1": {
+      "footprint": "dsPIC33EP128MC202",
+      "layer": "top",
+      "location": [
+        -13.913355,
+        1.05833
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "gerber-lp": "ccc",
+          "location": [
+            0,
+            15.51
+          ],
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "IC2": {
+      "footprint": "TO92_th",
+      "layer": "top",
+      "location": [
+        -21.612988,
+        25.923395
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            1.5,
+            -2.7
+          ],
+          "rotate": 0,
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "J1": {
+      "footprint": "rapid_jack",
+      "layer": "top",
+      "location": [
+        -13.290525,
+        -26.007208
+      ],
+      "rotate": 184.398099,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "gerber-lp": "cc",
+          "location": [
+            0,
+            2.3
+          ],
+          "rotate": 180,
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "J2": {
+      "footprint": "ICSP_Header",
+      "layer": "bottom",
+      "location": [
+        -20.53529,
+        31.482457
+      ],
+      "rotate": 166.056158,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "J3": {
+      "footprint": "UART_Header",
+      "layer": "bottom",
+      "location": [
+        -5.853285,
+        33.573887
+      ],
+      "rotate": 180,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "MIDI": {
+      "footprint": "MIDI_jumper",
+      "layer": "bottom",
+      "location": [
+        -24.53202,
+        -29.382721
+      ],
+      "rotate": 34.616013,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "R1": {
+      "footprint": "res_th",
+      "layer": "top",
+      "location": [
+        -24.817103,
+        9.176712
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "gerber-lp": "cdc",
+          "location": [
+            0,
+            0
+          ],
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "R2": {
+      "footprint": "res_th",
+      "layer": "top",
+      "location": [
+        -24.235596,
+        0.913723
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "gerber-lp": "cdc",
+          "location": [
+            0,
+            0
+          ],
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "R3": {
+      "footprint": "res_th",
+      "layer": "top",
+      "location": [
+        -24.61289,
+        -7.348605
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "gerber-lp": "cdc",
+          "location": [
+            0,
+            0
+          ],
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "R4": {
+      "footprint": "res_th",
+      "layer": "top",
+      "location": [
+        -25.29562,
+        -15.610272
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "gerber-lp": "cdc",
+          "location": [
+            0,
+            0
+          ],
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "R5": {
+      "footprint": "res_th",
+      "layer": "top",
+      "location": [
+        -6.501084,
+        6.061675
+      ],
+      "rotate": 270,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "gerber-lp": "cdcd",
+          "location": [
+            0,
+            0
+          ],
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "R6": {
+      "footprint": "res_th",
+      "layer": "top",
+      "location": [
+        -15.314169,
+        -20.966088
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "gerber-lp": "cdcd",
+          "location": [
+            0,
+            0
+          ],
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "R7": {
+      "footprint": "res_th",
+      "layer": "top",
+      "location": [
+        -24.761956,
+        -23.882889
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "gerber-lp": "cdc",
+          "location": [
+            0,
+            0
+          ],
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "R8": {
+      "footprint": "res_th",
+      "layer": "top",
+      "location": [
+        -24.761956,
+        -27.412051
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "gerber-lp": "cdcdd",
+          "location": [
+            0,
+            0
+          ],
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "R9": {
+      "footprint": "res_th",
+      "layer": "top",
+      "location": [
+        -25.569379,
+        17.438378
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "gerber-lp": "cdcd",
+          "location": [
+            0,
+            0
+          ],
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "SW1": {
+      "footprint": "F06085",
+      "layer": "top",
+      "location": [
+        2.72,
+        18.29
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "SW2": {
+      "footprint": "F06085",
+      "layer": "top",
+      "location": [
+        4.91,
+        6.4
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "SW3": {
+      "footprint": "F06085",
+      "layer": "top",
+      "location": [
+        4.91,
+        -6.4
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            4
+          ],
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "SW4": {
+      "footprint": "F06085",
+      "layer": "top",
+      "location": [
+        2.72,
+        -18.29
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "SW5": {
+      "footprint": "F06085",
+      "layer": "top",
+      "location": [
+        15.64,
+        8.5
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "SW6": {
+      "footprint": "F06085",
+      "layer": "top",
+      "location": [
+        15.64,
+        -8.5
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "SW7": {
+      "footprint": "ckswitch",
+      "layer": "top",
+      "location": [
+        -7.545305,
+        27.430222
+      ],
+      "rotate": 270,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "T1": {
+      "footprint": "TO92_th",
+      "layer": "top",
+      "location": [
+        -24.401056,
+        -20.114655
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            -5,
+            0
+          ],
+          "rotate": 0,
+          "show": true
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "VR1": {
+      "footprint": "PT10MV",
+      "layer": "top",
+      "location": [
+        3.11,
+        30.92
+      ],
+      "rotate": 297.594453,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "VR2": {
+      "footprint": "PT10MV",
+      "layer": "top",
+      "location": [
+        17.59,
+        23
+      ],
+      "rotate": 327.076252,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "VR3": {
+      "footprint": "PT10MV",
+      "layer": "top",
+      "location": [
+        26.66,
+        8.49
+      ],
+      "rotate": 358.253759,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "VR4": {
+      "footprint": "PT10MV",
+      "layer": "top",
+      "location": [
+        26.66,
+        -8.49
+      ],
+      "rotate": 31.07877,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "VR5": {
+      "footprint": "PT10MV",
+      "layer": "top",
+      "location": [
+        17.59,
+        -23
+      ],
+      "rotate": 60.908634,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "VR6": {
+      "footprint": "PT10MV",
+      "layer": "top",
+      "location": [
+        3.11,
+        -30.92
+      ],
+      "rotate": 92.557209,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0,
+            0
+          ],
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    }
+  },
+  "config": {
+    "name": "krell",
+    "no-docs": false,
+    "no-drill-index": false,
+    "no-flashes": false,
+    "no-layer-index": false,
+    "rev": "A",
+    "style-layout": "default",
+    "units": "mm"
+  },
+  "distances": {
+    "from-pour-to": {
+      "drill": 0.4,
+      "outline": 0.25,
+      "pad": 0.3,
+      "route": 0.3
+    },
+    "soldermask": {
+      "circle-buffer": 0.2,
+      "path-scale": 1.1,
+      "rect-buffer": 0.2
+    },
+    "solderpaste": {
+      "circle-buffer": -0.1,
+      "path-scale": 0.9,
+      "rect-buffer": -0.1
+    }
+  },
+  "documentation": {
+    "board-details": {
+      "font-family": "Overlock-Regular-OTF-webfont",
+      "font-size": "1.5mm",
+      "letter-spacing": "0mm",
+      "line-height": "1.5mm",
+      "location": [
+        45.729749,
+        3.0124636
+      ],
+      "rotate": 0,
+      "style": "fill",
+      "type": "text",
+      "value": "Board details:\nName: Krell\nRevision: A\nDescription: Hand held DSP synthesizer \nLicense: MIT\nCompany: Boldport Limited\nDesigner: Ben Barwise, ben@boldport.com"
+    },
+    "manufacturing": {
+      "font-family": "Overlock-Regular-OTF-webfont",
+      "font-size": "1.5mm",
+      "letter-spacing": "0mm",
+      "line-height": "1.5mm",
+      "location": [
+        48.886859,
+        -10.219535
+      ],
+      "rotate": 0,
+      "style": "fill",
+      "type": "text",
+      "value": "Manufacturing:\nRoHS and lead free compliant manufacturing process\nUnit of length: Millimetre (mm)\nNumber of layers: 2 ('top', 'bottom')\nBoard thickness: 1.6 mm\nMaterial: FR4 35/35 um copper\nSilkscreen: white\nSoldermask: top (green), bottom (green)\nSurface finish: ENIG"
+    },
+    "pcbmode": {
+      "font-family": "Overlock-Regular-OTF-webfont",
+      "font-size": "1.2mm",
+      "letter-spacing": "0mm",
+      "line-height": "1.2mm",
+      "location": [
+        45.076868,
+        -20.992978
+      ],
+      "rotate": 0,
+      "style": "fill",
+      "type": "text",
+      "value": "Designed with PCBmodE, an open source software\n     http://pcbmode.com\nStay updated:\n     @boldport @pcbmode http://boldport.com"
+    }
+  },
+  "drill-index": {
+    "location": [
+      32.955579,
+      16.342852
+    ]
+  },
+  "files": {
+    "routing-data": "krell_routing.json",
+    "routing-svg": "krell.svg"
+  },
+  "gerber": {
+    "decimals": 6,
+    "digits": 6,
+    "min-segment-length": 0.05,
+    "steps-per-segment": 100
+  },
+  "layer-control": {
+    "assembly": {
+      "hide": true,
+      "lock": false,
+      "place": true
+    },
+    "conductor": {
+      "hide": false,
+      "lock": false,
+      "pads": {
+        "hide": false,
+        "lock": false,
+        "place": true
+      },
+      "place": true,
+      "pours": {
+        "hide": false,
+        "lock": true,
+        "place": true
+      },
+      "routing": {
+        "hide": false,
+        "lock": false,
+        "place": true
+      }
+    },
+    "dimensions": {
+      "hide": false,
+      "lock": true,
+      "place": true
+    },
+    "documentation": {
+      "hide": false,
+      "lock": false,
+      "place": true
+    },
+    "drills": {
+      "hide": false,
+      "lock": false,
+      "place": true
+    },
+    "origin": {
+      "hide": false,
+      "lock": true,
+      "place": true
+    },
+    "outline": {
+      "hide": false,
+      "lock": true,
+      "place": true
+    },
+    "placement": {
+      "hide": false,
+      "lock": false,
+      "place": true
+    },
+    "silkscreen": {
+      "hide": false,
+      "lock": false,
+      "place": true
+    },
+    "soldermask": {
+      "hide": false,
+      "lock": false,
+      "place": true
+    },
+    "solderpaste": {
+      "hide": true,
+      "lock": true,
+      "place": true
+    }
+  },
+  "outline": {
+    "measurements": {
+      "font": "UbuntuMono-R-webfont",
+      "scale": 0.0008
+    },
+    "shape": {
+      "type": "path",
+      "value": "m 164.52597,75.233315 c 0,19.336765 -15.67555,35.012305 -35.01231,35.012305 -36.534684,0 -26.21257,-10.10039 -26.21257,-35.012305 0,-24.911915 -10.227623,-35.012314 26.21257,-35.012311 19.33677,2e-6 35.01231,15.675546 35.01231,35.012311 z"
+    }
+  },
+  "physical": {
+    "stackup": [
+      "top",
+      "bottom"
+    ]
+  },
+  "shapes": {
+    "BPLOGO": {
+      "footprint": "boldport-logo",
+      "layer": "bottom",
+      "location": [
+        0.967504,
+        0
+      ],
+      "rotate": 90,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "KRLOGO": {
+      "footprint": "krell-logo",
+      "layer": "bottom",
+      "location": [
+        15.566113,
+        0.148357
+      ],
+      "rotate": 180,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "MLLOGO": {
+      "footprint": "madlab-logo",
+      "layer": "bottom",
+      "location": [
+        -13.803907,
+        0.048171
+      ],
+      "rotate": 90,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "button_markings": {
+      "footprint": "button_markings",
+      "layer": "top",
+      "location": [
+        9.228635,
+        -4.585747
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "pot_markings": {
+      "footprint": "pot_markings",
+      "layer": "top",
+      "location": [
+        10.254401,
+        -1.105662
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "pswitch": {
+      "footprint": "power_switch",
+      "layer": "top",
+      "location": [
+        -4.712562,
+        27.412742
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "tpour": {
+      "footprint": "top_pour",
+      "layer": "top",
+      "location": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    },
+    "url": {
+      "footprint": "website_url",
+      "layer": "top",
+      "location": [
+        -13.913355,
+        1.05833
+      ],
+      "rotate": 0,
+      "show": true,
+      "silkscreen": {
+        "refdef": {
+          "show": false
+        },
+        "shapes": {
+          "show": true
+        }
+      }
+    }
+  }
+}
